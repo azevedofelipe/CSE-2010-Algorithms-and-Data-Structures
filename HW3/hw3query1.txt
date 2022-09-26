@@ -1,0 +1,8 @@
+DirectSupervisor hrManager
+DirectSubordinates chairman
+AllSupervisors financialManager
+AllSubordinates financialManager
+IsSupervisor Alice chairman
+IsSubordinate David chairman
+CompareRank Carol hrManager
+ClosestCommonSupervisor hrManager financialManager

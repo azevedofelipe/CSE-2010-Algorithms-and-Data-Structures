@@ -1,0 +1,8 @@
+AddEvent 0102 running
+AddEvent 0202 shopping
+AddEvent 0105 playBasketball
+PrintSkipList
+AddEvent 0502 homework
+AddEvent 0702 restaurant
+AddEvent 1102 school
+PrintSkipList

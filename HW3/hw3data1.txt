@@ -1,0 +1,7 @@
+chairman
+chairman hrManager
+chairman financialManager
+hrManager Alice
+hrManager Bob
+financialManager Carol
+financialManager David

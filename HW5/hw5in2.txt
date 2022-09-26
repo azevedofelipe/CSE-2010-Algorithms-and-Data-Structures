@@ -1,0 +1,19 @@
+DisplayEvent 1201
+AddEvent 0102 running
+AddEvent 0202 shopping
+AddEvent 0105 playBasketball
+PrintSkipList
+AddEvent 0522 homework
+AddEvent 0702 restaurant
+DeleteEvent 0703
+AddEvent 1102 school
+AddEvent 1012 wineFestival
+AddEvent 1031 halloweenParty
+DisplayEventsFromStartDate 0901
+DisplayEventsBetweenDates 0901 1101
+AddEvent 0813 interviewing
+AddEvent 0328 training
+AddEvent 0421 webinar
+DisplayEventsToEndDate 0510
+DisplayAllEvents
+PrintSkipList

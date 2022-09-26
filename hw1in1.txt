@@ -1,0 +1,6 @@
+ChatRequest 0800 George wait
+ChatRequest 0805 Harry later
+ChatRequest 0810 Iven wait
+PrintAvailableRepList 0813
+ChatEnded Iven Carol 0830
+PrintMaxWaitTime 1000
